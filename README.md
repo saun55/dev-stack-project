@@ -6,7 +6,7 @@ Dev Stack helps developers explore popular frontend, backend, database, language
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** (dev-stack-project.netlify.app)
+🔗 **[View Live Project](https://dev-stack-project.netlify.app)**
 
 ## 📸 Preview
 
